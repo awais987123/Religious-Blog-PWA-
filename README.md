@@ -1,7 +1,7 @@
 
 # Religious Progressive Web App
-##Check the app by click on this link 
-![Live_Site](https://testing12-pi.vercel.app/)
+## Check the app by click on this link 
+[Live_Site](https://testing12-pi.vercel.app/)
 
 ![Alt Text](https://media.giphy.com/media/G18UNyBOePO8r0yrlI/giphy.gif)
 
