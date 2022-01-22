@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "graphql": "^16.2.0",
+    "graphql-request": "^3.7.0",
+    "howler": "^2.2.3",
+    "html-react-parser": "^1.4.5",
+    "moment": "^2.29.1",
+    "next": "latest",
+    "next-pwa": "^5.4.4",
+    "react": "^17.0.2",
+    "react-audio-player": "^0.17.0",
+    "react-dom": "^17.0.2",
+    "react-howler": "^5.2.0",
+    "react-multi-carousel": "^2.6.5",
+    "sass": "^1.46.0",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.4",
+    "@types/react": "17.0.38",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7",
+    "typescript": "4.5.4"
+  }
+}
